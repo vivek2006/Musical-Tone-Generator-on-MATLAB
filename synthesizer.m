@@ -25,5 +25,3 @@ end
 
 % play the signal
 sound(y,FS)
-% save audio signal
-%save_audio('test.wav',y,FS);
